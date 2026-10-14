@@ -1,0 +1,12 @@
+{
+  "name": "Swara Keys",
+  "short_name": "Swara Keys",
+  "description": "Piano practice that listens to your keyboard: Keshav's Adventure, Little Keys and Mayooran's Studio.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#15132c",
+  "theme_color": "#15132c",
+  "icons": [{ "src": "icon.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }]
+}
